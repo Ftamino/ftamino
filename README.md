@@ -1,6 +1,5 @@
-### Hi there 👋, I´m using Linux btw 🐧
-
 ### About me:
+### - I´m using Linux btw 🐧
 ### - German 🇩🇪
 ### - some Java & Python knowledge
 
