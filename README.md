@@ -1,5 +1,11 @@
 ### Hi there 👋, I´m using Linux btw 🐧
 
+### About me:
+### - German 🇩🇪
+### - some Java & Python knowledge
+
+  
+
 
 
 <!--
